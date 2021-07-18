@@ -1,2 +1,2 @@
 # bonavee-sequence-converter
-This is a GUI created with Tkinter library of Python. It takes a DNA sequence and converts it to it's corresponding RNA sequence and vice versa.
+This is a GUI created using Python's Tkinter library. It takes a DNA sequence and converts it to the corresponding RNA sequence and vice versa.
